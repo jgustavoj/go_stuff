@@ -1,7 +1,7 @@
 # go_stuff
 This repo containts packages from other modules:
 
- -  github.com/jgustavoj/go_greetings
+ -  [github.com/jgustavoj/go_greetings](https://github.com/jgustavoj/go_greetings)
 
 Some commands to remember
 
@@ -15,3 +15,4 @@ $ go mod init example/hello
 $ go mod tidy
 
 ``` 
+ 
