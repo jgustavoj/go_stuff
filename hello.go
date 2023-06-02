@@ -34,8 +34,4 @@ func main() {
 	// If no error was returned, print the returned message
 	// to the console.
 	fmt.Println(message)
-
-	// Get a greeting message and print it.
-	// message := greetings.Hello("Tom")
-	// fmt.Println(message)
 }
